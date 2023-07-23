@@ -3,11 +3,11 @@
 <!--
 **tkdtn4657/tkdtn4657** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a herf="https://solved.ac/profile/tkdtn4657/", target="_blank">
-	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdtn4657>
-</a>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdtn4657)](https://solved.ac/tkdtn4657)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkdtn4657&show_icons=true&theme=radical)
+
 
 Here are some ideas to get you started:
 
