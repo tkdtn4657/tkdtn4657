@@ -6,8 +6,7 @@
 
 Qualifications
 
-PCCP LV.3 (26.04)
-[!(https://certi.programmers.co.kr/result/share/17291?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)]
+[PCCP LV.3(26.04)](https://certi.programmers.co.kr/result/share/17291?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
 
 정보처리기사 (25.12)
 
